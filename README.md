@@ -44,7 +44,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
  RegisterNumber:212225230259
 ```
  ```
-module JK(
+module ex4(
     input clk,
     input j,
     input k,
